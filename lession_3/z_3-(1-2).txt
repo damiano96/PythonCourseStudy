@@ -1,0 +1,12 @@
+Zadanie 3.1
+    ad 1) Jest poprawny składniowo
+    ad 2) Nie jest poprawny składniowo. Ewidentnie brakuje tutaj wcięcia oraz nowego wiersza. 
+    ad 3) Jest poprawny składniowo. 
+
+Zadanie 3.2
+    ad 1) Kod jest poprawny
+    ad 2) Kod nie jest poprawny. Mamy tu przypisanie 3 wartosci do dwoch zmiennych
+    ad 3) Tutaj widzimy, że X jest krotka a one niestety nie moga mieć przypisanych wartosci do elementu
+    ad 4) Przypisanie wartosci do nie istniejacego elementu. Lista 3-elementowa a proba jest przypisania do elemtnu 4
+    ad 5) String (ktorym jest X) nie obsluguje metody append
+    ad 6) Kod jest poprawny
